@@ -1,5 +1,5 @@
-exp4j
+exp4kotlin
 -----
-exp4j is a mathematical expression evaluator for the Java programming language. It is a simple-to-use and small library (~50kb) without any external dependencies.
+exp4kotlin is rebuilted exp4j as kotlin.
 
-Check out http://www.objecthunter.net/exp4j/ for documentation and examples
+Supporting extension, infix, and more utility methods.
